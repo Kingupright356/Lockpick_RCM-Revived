@@ -1,3 +1,6 @@
+This is a reuploaded version of lockpick for the purpose of allowing people to keep downloading the file without worrying about the original being taken down due to nintendo's DMCA request. all credit goes to shchmue for making this program!
+
+
 Lockpick_RCM
 =
 Lockpick_RCM is a bare metal Nintendo Switch payload that derives encryption keys for use in Switch file handling software like hactool, hactoolnet/LibHac, ChoiDujour, etc. without booting Horizon OS.
